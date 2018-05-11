@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+	background-color: brown;
+	color: #FEECFF;
+	font-size: 24px;
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur740.ani), url(http://cur.cursors-4u.net/cursors/cur-8/cur740.png), progress !important;
+	}
+a{
+		color: rgb(0, 0, 0);
+	}
+p{
+		font-size: 20
+		px;
+	}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.grid{
+	width: cover;
+	height: cover;
+	display: grid;
+}
+.box{
+	color: white;
+	border-radius: 2px;
+	border: 1px white solid;
+	
+}
+.box1{
+	color: white;
+	border-radius: 3px;
+	border: 5px white solid;
+	
+}
+.box2{
+	color: white;
+	border-radius: 3px;
+	border: 5px white solid;
+}
+.box3{
+	color: white;
+	border-radius: 3px;
+	border: 10px white solid;
+{
+.box4{
+	grid-column-start: 1;
+	grid-column-end: 1;
+	border: 10px white solid;
+}
+li {
+    float: center;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+		
+		
