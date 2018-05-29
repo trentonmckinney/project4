@@ -27,29 +27,44 @@ ul {
 .box{
 	color: white;
 	border-radius: 2px;
-	border: 1px white solid;
+	border: 5px white solid;
 	
 }
 .box1{
 	color: white;
-	border-radius: 3px;
+	border-radius: 2px;
 	border: 5px white solid;
 	
 }
 .box2{
 	color: white;
-	border-radius: 3px;
+	border-radius: 2px;
 	border: 5px white solid;
 }
 .box3{
 	color: white;
-	border-radius: 3px;
-	border: 10px white solid;
-{
+	border-radius: 2px;
+	border: 5px white solid;
+}
 .box4{
-	grid-column-start: 1;
-	grid-column-end: 1;
-	border: 10px white solid;
+	color: white;
+	border-radius: 2px;
+	border: 5px white solid;
+}
+.box5{
+	color: white;
+	border-radius: 2px;
+	border: 5px white solid;
+}
+.box6{
+	color: white;
+	border-radius: 2px;
+	border: 5px white solid;
+}
+.box7{
+	color: white;
+	border-radius: 2px;
+	border: 5px white solid;
 }
 li {
     float: center;
@@ -64,7 +79,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: purple;
 }
 		
 		
